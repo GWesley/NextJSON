@@ -1,4 +1,3 @@
-
 # NextJSON
 
 **NextJSON** is a modern web platform for working with JSON — designed to make viewing, validating, transforming, and sharing JSON simple and intuitive.
@@ -166,7 +165,6 @@ NextJSON states that processing happens **entirely in your browser** and that it
 5. **Need inline JSON?** → Minify to one line ([NextJSON][5])
 6. **LLM prompt too big?** → JSON → TOON (and back if needed) ([NextJSON][6])
 
-
 ---
 
 ## 💬 Feedback & Community
@@ -187,3 +185,12 @@ MIT License (or your preferred license)
 
 ---
 
+<!-- Link references -->
+[1]: https://nextjson.com/ "Nested JSON Parser - NextJSON"
+[2]: https://nextjson.com/json-schema-generator "JSON Schema Generator - NextJSON"
+[3]: https://nextjson.com/json-schema-to-json "JSON Schema to JSON - NextJSON"
+[4]: https://nextjson.com/json-diff "JSON Diff & Compare - NextJSON"
+[5]: https://nextjson.com/convert-json-to-oneline "Convert JSON to One Line - NextJSON"
+[6]: https://nextjson.com/json-to-toon "JSON to TOON Converter - NextJSON"
+[7]: https://nextjson.com/toon-to-json "TOON to JSON Converter - NextJSON"
+[8]: https://nextjson.com/privacy "Privacy Policy - NextJSON"
