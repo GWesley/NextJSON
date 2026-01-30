@@ -1,10 +1,9 @@
 # NextJSON
 
-**NextJSON** is a modern web platform for working with JSON — designed to make viewing, validating, transforming, and sharing JSON simple and intuitive.
+**[NextJSON](https://nextjson.com)** is a modern web toolbox for working with JSON — designed to make viewing, validating, transforming, and sharing JSON simple and intuitive.
 
 Whether you're debugging APIs, inspecting responses, or experimenting with data structures, NextJSON helps you stay focused and productive.
 
-🌐 **Website**: [https://nextjson.com](https://nextjson.com)
 
 ---
 
